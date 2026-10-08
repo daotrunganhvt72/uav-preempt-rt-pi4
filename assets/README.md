@@ -1,0 +1,1 @@
+Website assets. UAV photograph: Josh Sorenson, CC0. Raspberry Pi 4 Model B photograph: Michael H. (Laserlicht), CC BY-SA 4.0. See the website credits and root README for source links. report.pdf preserves the original project report.
