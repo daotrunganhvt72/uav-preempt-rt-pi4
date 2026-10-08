@@ -16,4 +16,4 @@ Typography: IBM Plex Serif, Source Sans 3 và Roboto Mono qua Google Fonts, có 
 
 Ảnh Pi 4 Model B: Michael H. (Laserlicht), CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Raspberry_Pi_4_Model_B_-_Side.jpg . Bản thay đổi kích thước giữ giấy phép CC BY-SA 4.0; ảnh không xác nhận dung lượng RAM.
 
-assets/report.pdf giữ nguyên báo cáo nguồn. Sơ đồ lấy từ tài liệu dự án.
+PDF và hai sơ đồ gốc được giữ riêng tư, không nằm trong repository công khai. Website chỉ trình bày nội dung đã biên tập và sơ đồ diễn giải bằng HTML.
